@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "oQ+BnRMUtNYQXS5YqbNFn6IYE3/PyIST9j7/gR18ANQ=",
+  "Source": "MagazaWebApp",
+  "BasePath": "_content/MagazaWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MagazaWebApp/wwwroot",
+      "Source": "MagazaWebApp",
+      "ContentRoot": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/wwwroot/",
+      "BasePath": "_content/MagazaWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/bundle/MagazaWebApp.styles.css",
+      "SourceId": "MagazaWebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/MagazaWebApp",
+      "RelativePath": "MagazaWebApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/bundle/MagazaWebApp.styles.css"
+    },
+    {
+      "Identity": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/projectbundle/MagazaWebApp.bundle.scp.css",
+      "SourceId": "MagazaWebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/MagazaWebApp",
+      "RelativePath": "MagazaWebApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/projectbundle/MagazaWebApp.bundle.scp.css"
+    }
+  ]
+}

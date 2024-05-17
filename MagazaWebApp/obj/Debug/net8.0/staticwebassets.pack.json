@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mehmetiyiyazici/Documents/works/MagazaWebApp/obj/Debug/net8.0/scopedcss/projectbundle/MagazaWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/MagazaWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MagazaWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MagazaWebApp.props",
+      "PackagePath": "build\\MagazaWebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MagazaWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MagazaWebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MagazaWebApp.props",
+      "PackagePath": "buildTransitive\\MagazaWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
